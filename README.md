@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TEJA3441/leet-code-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/TEJA3441/leet-code-solved/tree/master/0031-next-permutation) |
+| [0908-middle-of-the-linked-list](https://github.com/TEJA3441/leet-code-solved/tree/master/0908-middle-of-the-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/TEJA3441/leet-code-solved/tree/master/0958-sort-array-by-parity-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TEJA3441/leet-code-solved/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TEJA3441/leet-code-solved/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TEJA3441/leet-code-solved/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0908-middle-of-the-linked-list](https://github.com/TEJA3441/leet-code-solved/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
