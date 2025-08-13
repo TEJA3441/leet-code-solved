@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TEJA3441/leet-code-solved/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/TEJA3441/leet-code-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0958-sort-array-by-parity-ii](https://github.com/TEJA3441/leet-code-solved/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/TEJA3441/leet-code-solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/TEJA3441/leet-code-solved/tree/master/1319-unique-number-of-occurrences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TEJA3441/leet-code-solved/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TEJA3441/leet-code-solved/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/TEJA3441/leet-code-solved/tree/master/0389-find-the-difference) |
 | [0958-sort-array-by-parity-ii](https://github.com/TEJA3441/leet-code-solved/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/TEJA3441/leet-code-solved/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/TEJA3441/leet-code-solved/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/TEJA3441/leet-code-solved/tree/master/0908-middle-of-the-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/TEJA3441/leet-code-solved/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/TEJA3441/leet-code-solved/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TEJA3441/leet-code-solved/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
