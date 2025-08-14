@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TEJA3441/leet-code-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/TEJA3441/leet-code-solved/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/TEJA3441/leet-code-solved/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/TEJA3441/leet-code-solved/tree/master/0125-valid-palindrome) |
 | [0908-middle-of-the-linked-list](https://github.com/TEJA3441/leet-code-solved/tree/master/0908-middle-of-the-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/TEJA3441/leet-code-solved/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/TEJA3441/leet-code-solved/tree/master/1019-squares-of-a-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/TEJA3441/leet-code-solved/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TEJA3441/leet-code-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/TEJA3441/leet-code-solved/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/TEJA3441/leet-code-solved/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/TEJA3441/leet-code-solved/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/TEJA3441/leet-code-solved/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
