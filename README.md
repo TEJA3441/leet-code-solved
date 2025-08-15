@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TEJA3441/leet-code-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/TEJA3441/leet-code-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/TEJA3441/leet-code-solved/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TEJA3441/leet-code-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/TEJA3441/leet-code-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/TEJA3441/leet-code-solved/tree/master/0958-sort-array-by-parity-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TEJA3441/leet-code-solved/tree/master/0560-subarray-sum-equals-k) |
 ## Trie
 |  |
@@ -124,5 +126,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/TEJA3441/leet-code-solved/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
