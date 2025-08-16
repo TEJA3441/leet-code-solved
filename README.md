@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TEJA3441/leet-code-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/TEJA3441/leet-code-solved/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/TEJA3441/leet-code-solved/tree/master/0940-fruit-into-baskets) |
 | [0958-sort-array-by-parity-ii](https://github.com/TEJA3441/leet-code-solved/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/TEJA3441/leet-code-solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/TEJA3441/leet-code-solved/tree/master/1319-unique-number-of-occurrences) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/TEJA3441/leet-code-solved/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/TEJA3441/leet-code-solved/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/TEJA3441/leet-code-solved/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/TEJA3441/leet-code-solved/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/TEJA3441/leet-code-solved/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TEJA3441/leet-code-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/TEJA3441/leet-code-solved/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/TEJA3441/leet-code-solved/tree/master/0940-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
