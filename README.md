@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/TEJA3441/leet-code-solved/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/TEJA3441/leet-code-solved/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TEJA3441/leet-code-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/TEJA3441/leet-code-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/TEJA3441/leet-code-solved/tree/master/0713-subarray-product-less-than-k) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TEJA3441/leet-code-solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/TEJA3441/leet-code-solved/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/TEJA3441/leet-code-solved/tree/master/0389-find-the-difference) |
+| [0523-continuous-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TEJA3441/leet-code-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/TEJA3441/leet-code-solved/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/TEJA3441/leet-code-solved/tree/master/1319-unique-number-of-occurrences) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/TEJA3441/leet-code-solved/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/TEJA3441/leet-code-solved/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/TEJA3441/leet-code-solved/tree/master/0412-fizz-buzz) |
+| [0523-continuous-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0523-continuous-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TEJA3441/leet-code-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/TEJA3441/leet-code-solved/tree/master/0713-subarray-product-less-than-k) |
 ## Trie
