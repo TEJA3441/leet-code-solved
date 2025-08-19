@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/TEJA3441/leet-code-solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/TEJA3441/leet-code-solved/tree/master/1319-unique-number-of-occurrences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TEJA3441/leet-code-solved/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2478-longest-nice-subarray](https://github.com/TEJA3441/leet-code-solved/tree/master/2478-longest-nice-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/TEJA3441/leet-code-solved/tree/master/0389-find-the-difference) |
+| [2478-longest-nice-subarray](https://github.com/TEJA3441/leet-code-solved/tree/master/2478-longest-nice-subarray) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/TEJA3441/leet-code-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/TEJA3441/leet-code-solved/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/TEJA3441/leet-code-solved/tree/master/0940-fruit-into-baskets) |
+| [2478-longest-nice-subarray](https://github.com/TEJA3441/leet-code-solved/tree/master/2478-longest-nice-subarray) |
 ## Binary Search
 |  |
 | ------- |
