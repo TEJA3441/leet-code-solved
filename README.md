@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/TEJA3441/leet-code-solved/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/TEJA3441/leet-code-solved/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TEJA3441/leet-code-solved/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/TEJA3441/leet-code-solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/TEJA3441/leet-code-solved/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/TEJA3441/leet-code-solved/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/TEJA3441/leet-code-solved/tree/master/0680-valid-palindrome-ii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/TEJA3441/leet-code-solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/TEJA3441/leet-code-solved/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/TEJA3441/leet-code-solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TEJA3441/leet-code-solved/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/TEJA3441/leet-code-solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TEJA3441/leet-code-solved/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2478-longest-nice-subarray](https://github.com/TEJA3441/leet-code-solved/tree/master/2478-longest-nice-subarray) |
 ## Binary Search
