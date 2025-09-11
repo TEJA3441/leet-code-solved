@@ -8,7 +8,7 @@ class Solution:
         for right in range(n):
             basket[fruits[right]] = basket.get(fruits[right],0) + 1
 
-            while len(basket) > 2:
+            if len(basket) > 2:
                 basket[fruits[left]] -= 1
 
                 if basket[fruits[left]] == 0:
