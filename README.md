@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TEJA3441/leet-code-solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/TEJA3441/leet-code-solved/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/TEJA3441/leet-code-solved/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/TEJA3441/leet-code-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TEJA3441/leet-code-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/TEJA3441/leet-code-solved/tree/master/0940-fruit-into-baskets) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/TEJA3441/leet-code-solved/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/TEJA3441/leet-code-solved/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/TEJA3441/leet-code-solved/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/TEJA3441/leet-code-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/TEJA3441/leet-code-solved/tree/master/0680-valid-palindrome-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TEJA3441/leet-code-solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TEJA3441/leet-code-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/TEJA3441/leet-code-solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/TEJA3441/leet-code-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/TEJA3441/leet-code-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/TEJA3441/leet-code-solved/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/TEJA3441/leet-code-solved/tree/master/0940-fruit-into-baskets) |
