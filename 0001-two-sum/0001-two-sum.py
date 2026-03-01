@@ -1,13 +1,15 @@
 class Solution:
-    def twoSum(self, nums, target):
-        n = len(nums)
+    def twoSum(self, arr, target):
+        n = len(arr)
         hash_map = {}
 
         for i in range(n):
-            more = target - nums[i]
-            if more in hash_map:
+            more = target - arr[i]
+
+            if  more in hash_map:
                 return [hash_map[more], i]
-            hash_map[nums[i]] = i
+            
+            hash_map[arr[i]] = i
         
         return []
 
