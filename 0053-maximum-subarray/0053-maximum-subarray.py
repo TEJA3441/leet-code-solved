@@ -3,21 +3,15 @@ class Solution:
         # OPTIMAL
 
         n = len(nums)
-        sum1 = 0
-        max_sum = float('-inf')
+        curr_sum = nums[0]
+        max_sum = nums[0]
 
-        for i in range(n):
-            sum1 += nums[i]
-            if sum1 > max_sum:
-                max_sum = sum1
-            if sum1 < 0:
-                sum1 = 0
-        
+        for i in range(1, n):
+            curr_sum = max(nums[i], curr_sum + nums[i])
+
+            max_sum = max(curr_sum, max_sum)
+
         return max_sum
-
-
-
-
         
         # for smaller arrays
 
